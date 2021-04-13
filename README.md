@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lbouchar3
 - 👀 I’m interested in WhiteHat Security
 - 🌱 I’m currently learning how to use enterprise version of GitHub 
-- 💞️ I’m looking to collaborate on Navika and other projects
+- 💞️ I’m looking to collaborate on WhiteHat internal projects
 - 📫 How to reach me: louis.bouchard@whitehatsec.com
 
 <!---
